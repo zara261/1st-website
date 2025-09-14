@@ -1,0 +1,58 @@
+/* styles.css */
+
+ nav {
+    background-color: #702963;
+    padding: 20 px;
+    text-align: center;
+  }
+  
+  nav a {
+    color:#D8BFD8;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 15px;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  .header{
+    color: #9F2B68;
+    text-align: left;
+  }
+  h1, p {
+    font-family: Arial, sans-serif;
+    color:#702963;
+    text-align: justify;
+    text-decoration: double;
+    text-transform: capitalize;
+    text-shadow: #702963;
+  }
+  a{
+    font-family: Arial, sans-serif;
+    color:#D8BFD8;
+    text-align: justify;
+    text-decoration: double;
+    text-transform: capitalize;
+    text-shadow: #702963;
+    background-color: #702963;
+  }
+  table{
+    font-family: Arial, sans-serif;
+    color:#D8BFD8;
+    background-color: #702963;
+    text-align: left;
+    text-decoration: double;
+    text-transform: capitalize;
+    text-shadow: #702963; 
+  }
+  button{
+    font-family: Arial, sans-serif;
+    color:#702963 ;
+    background-color: #D8BFD8;
+    text-align: left;
+    text-decoration: double;
+    text-transform: capitalize;
+    text-shadow: #702963; 
+  }
+  
